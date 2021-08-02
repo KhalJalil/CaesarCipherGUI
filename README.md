@@ -1,2 +1,2 @@
 # CaesarCipherGUI
-A simple encryption program with a lil bit of GUI
+A simple Caesar Cipher encryption program with a lil bit of GUI using Swing
